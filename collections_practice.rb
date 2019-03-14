@@ -28,3 +28,11 @@ def kesha_maker(array_strings)
     item[2] = "$"
   end
 end
+
+def find_a(array)
+  
+end
+
+def sum_array(array)
+  
+end
